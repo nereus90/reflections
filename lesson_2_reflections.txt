@@ -7,3 +7,6 @@ staging area is a place where changes are stored before being committed. lets yo
 How can you use the staging area to make sure you have one commit per logical change?
 you can compare the staging area changes to the working directory to confirm that it is one logical change
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+To test features that may not make it into the final version or alternate versions of the program.
+
