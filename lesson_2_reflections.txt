@@ -13,3 +13,6 @@ To test features that may not make it into the final version or alternate versio
 How do the diagrams help you visualize the branch structure?
 They are a visual representation of the structure.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+all changes from the parent of each branch are merged into one commit. it is literally making one branch from two.
+
