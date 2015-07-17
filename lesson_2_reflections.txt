@@ -4,3 +4,6 @@ Git creates .git folder, so it has a place to store metadata
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is a place where changes are stored before being committed. lets you review changes before commit etc
 
+How can you use the staging area to make sure you have one commit per logical change?
+you can compare the staging area changes to the working directory to confirm that it is one logical change
+
