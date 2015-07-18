@@ -16,3 +16,6 @@ They are a visual representation of the structure.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 all changes from the parent of each branch are merged into one commit. it is literally making one branch from two.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic saves time, but can sometimes cause problems or just inelegant code, manually takes time but is better in form
+
