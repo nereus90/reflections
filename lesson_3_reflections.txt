@@ -4,3 +4,7 @@ If you need to work from multiple locations or if multiple people are working on
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 If you were working on your own version of a project you might not want to include every change to the original repo.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are copies of a project to your github account, clones are copies of a project to a local directory, branches are 
+a seperate path of commits for a project, distinct from other branches. 
+
